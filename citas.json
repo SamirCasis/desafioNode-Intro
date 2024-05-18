@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "nuevoId": "47",
+        "nombre": "Pinky",
+        "edad": "15 años",
+        "mascota": "perro",
+        "color": "blanco",
+        "enfermedad": "tumor"
+    },
+    {
+        "id": "45",
+        "nombre": "Agatha",
+        "edad": "6 años",
+        "mascota": "gata",
+        "color": "multicolor",
+        "enfermedad": "cancer"
+    }
+]
